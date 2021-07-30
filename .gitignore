@@ -38,3 +38,4 @@ Debug/
 *.user
 *.gitignore
 *.gitattributes
+packages.config
