@@ -1,6 +1,5 @@
 #include "header.h"
-#include <semaphore.h>
-#include <exception>
+
 //–≈∫≈¡ø
 class sem
 {
